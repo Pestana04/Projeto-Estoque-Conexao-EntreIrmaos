@@ -239,6 +239,6 @@ A interface foi desenvolvida com foco em:
 
 # Considerações Finais
 
-O projeto busca unir tecnologia e impacto social, auxiliando a instituição EntreIrmaos na organização e controle das doações recebidas.
+O projeto busca unir tecnologia e impacto social, auxiliando a instituição EntreIrmaos na organização e controle das doações recebidas..
 
 Além do aprendizado acadêmico, o sistema foi pensado para possuir aplicabilidade real, contribuindo diretamente para a eficiência operacional da instituição.
